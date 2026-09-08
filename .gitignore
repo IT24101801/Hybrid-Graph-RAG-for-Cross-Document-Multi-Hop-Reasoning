@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Chroma local database
+chroma_db/
+.chroma/
+
+# Neo4j local/generated files
+neo4j_data/
+
+# Processed/generated data
+data/processed/
+
+# Temporary files
+tmp/
+temp/
+
+# Test cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# API keys / secrets
+*.key
+secrets/

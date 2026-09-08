@@ -1,0 +1,37 @@
+# Core
+python-dotenv
+pydantic
+pydantic-settings
+
+# API
+fastapi
+uvicorn
+
+# Document processing
+pypdf
+python-docx
+markdown
+beautifulsoup4
+
+# Data
+pandas
+
+# Vector DB
+chromadb
+
+# Graph DB
+neo4j
+
+# HTTP / APIs
+httpx
+requests
+
+# LLM / embeddings
+openai
+
+# NLP utilities
+rapidfuzz
+
+# Testing
+pytest
+pytest-asyncio
