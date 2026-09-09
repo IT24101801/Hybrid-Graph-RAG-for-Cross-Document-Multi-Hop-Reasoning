@@ -2,14 +2,14 @@ from __future__ import annotations
 
 from typing import Any, Dict, Iterable, List, Sequence
 
-from app.embeddings.embedder import VoyageEmbedder
+from app.embeddings.embedder import HuggingFaceEmbedder
 from app.vector_store.chroma_client import get_chroma_collection
 
 
 class VectorRepository:
-    def __init__(self, embedder: VoyageEmbedder | None = None) -> None:
+    def __init__(self, embedder: HuggingFaceEmbedder | None = None) -> None:
         self.collection = get_chroma_collection()
-        self.embedder = embedder or VoyageEmbedder()
+        self.embedder = embedder or HuggingFaceEmbedder()
 
     @staticmethod
     def _chunk_text(chunk: Any) -> str:

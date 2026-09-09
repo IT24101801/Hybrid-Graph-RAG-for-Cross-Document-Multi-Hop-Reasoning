@@ -7,6 +7,9 @@ import time
 from typing import Any, Dict
 
 import requests
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
 class LLMClient:
