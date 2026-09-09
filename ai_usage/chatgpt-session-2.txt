@@ -1,0 +1,56 @@
+ASHENGRAPH — AI DEVELOPMENT CONVERSATION LOG
+=============================================
+
+AI Tool:
+OpenAI ChatGPT
+
+Project:
+AshenGraph — Hybrid Graph RAG for Cross-Document Multi-Hop Reasoning
+
+Competition:
+SLIIT Codefest 2026 AI Competition
+
+Track:
+Sub-track 1B — Connecting Facts Across Thousands of Pages
+
+Log Part:
+Session 2
+
+Topics Covered:
+- LLM entity extraction experiments
+- Relation and claim extraction
+- Graph candidate selection
+- LLM rate-limit / latency problems
+- Lightweight Neo4j graph construction
+- Graph retrieval testing
+- Multi-hop retrieval testing
+- Graph-guided vector expansion
+- Ederon Fellgard multi-hop example
+- End-to-end hybrid QA
+- FastAPI / Swagger UI
+- Development-set testing
+- Failure analysis
+- README preparation
+- Architecture documentation
+- Technical decisions
+- Limitations
+- Architecture diagram
+- Video planning
+- Final competition submission preparation
+
+IMPORTANT:
+The content below is the original ChatGPT conversation transcript.
+It has not been rewritten to hide errors, failed attempts, corrections,
+or architecture changes.
+
+============================================================
+BEGIN ORIGINAL CHAT TRANSCRIPT
+============================================================
+
+
+PASTE THE ACTUAL LATER CHATGPT CONVERSATION HERE.
+
+
+============================================================
+END ORIGINAL CHAT TRANSCRIPT
+============================================================
