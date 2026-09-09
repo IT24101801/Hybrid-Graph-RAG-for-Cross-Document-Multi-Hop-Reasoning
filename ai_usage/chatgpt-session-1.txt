@@ -1,0 +1,62 @@
+
+---
+
+# 3. `ai_usage/chatgpt-session-1.txt`
+
+This one is different.
+
+**Do not paste a made-up “summary” and claim it is the full chat log.** The competition specifically asks for the full AI conversation logs. :contentReference[oaicite:1]{index=1}
+
+Use this header at the top:
+
+```text
+ASHENGRAPH — AI DEVELOPMENT CONVERSATION LOG
+=============================================
+
+AI Tool:
+OpenAI ChatGPT
+
+Project:
+AshenGraph — Hybrid Graph RAG for Cross-Document Multi-Hop Reasoning
+
+Competition:
+SLIIT Codefest 2026 AI Competition
+
+Track:
+Sub-track 1B — Connecting Facts Across Thousands of Pages
+
+Log Part:
+Session 1
+
+Topics Covered:
+- Competition challenge understanding
+- Architecture design
+- Repository structure
+- Git feature workflow
+- Document ingestion
+- PDF/DOCX/Markdown/TXT loaders
+- Cleaning
+- Chunking
+- Provenance metadata
+- Corpus ingestion testing
+- Embedding architecture
+- External embedding rate-limit problems
+- Migration to local BGE embeddings
+- ChromaDB vector indexing
+
+IMPORTANT:
+The content below is the original ChatGPT conversation transcript.
+It has not been rewritten to hide errors, failed attempts, corrections,
+or architecture changes.
+
+============================================================
+BEGIN ORIGINAL CHAT TRANSCRIPT
+============================================================
+
+
+PASTE THE ACTUAL EARLIER CHATGPT CONVERSATION HERE.
+
+
+============================================================
+END ORIGINAL CHAT TRANSCRIPT
+============================================================
