@@ -54,3 +54,6 @@ dist/
 # API keys / secrets
 *.key
 secrets/
+
+
+data/
